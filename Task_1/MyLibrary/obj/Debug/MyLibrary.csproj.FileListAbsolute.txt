@@ -1,0 +1,5 @@
+C:\Users\Abbie Tladi\Downloads\Task_1\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\Abbie Tladi\Downloads\Task_1\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\Abbie Tladi\Downloads\Task_1\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Abbie Tladi\Downloads\Task_1\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\Abbie Tladi\Downloads\Task_1\MyLibrary\obj\Debug\MyLibrary.pdb
